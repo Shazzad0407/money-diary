@@ -1,0 +1,169 @@
+﻿  MoneyDairy.cpp
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(95): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(132): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(134): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(152): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(183): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(187): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(188): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(230): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(238): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(268): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(317): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(373): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(376): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(356): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(357): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(370): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(378): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(388): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(427): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(430): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(410): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(411): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(424): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(432): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(442): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(464): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(465): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(484): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\time.h(506): note: see declaration of 'localtime'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(486): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(537): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(595): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(598): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(600): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(624): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(627): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(629): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(577): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(578): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(602): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(612): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(613): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(631): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(661): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(662): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(708): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(711): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(713): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(690): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(691): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(715): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(725): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(726): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(752): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(753): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(793): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\time.h(506): note: see declaration of 'localtime'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(796): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(814): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(862): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(951): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1017): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1030): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1035): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1053): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1093): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1173): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1240): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1254): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1259): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1277): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1325): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1413): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1479): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1490): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1495): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1513): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1561): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1649): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1714): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1724): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1729): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1746): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1831): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1888): error C3861: 'gets': identifier not found
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1898): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1903): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(1920): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(2004): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(2059): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(2077): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(2125): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(2214): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(2807): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(2808): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\p2p\shumon\my project\money dairy\moneydairy\moneydairy\moneydairy.cpp(2929): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(574): note: see declaration of 'strrev'
